@@ -7,4 +7,4 @@
 ## Полезные ссылки
 - [Visual Paradigm](https://www.visual-paradigm.com/download/)
 - [Visual Paradigm Online](https://online.visual-paradigm.com/)
-- [Методичка](./Практикум_АКМС.pdf)
+- [Методичка](Analysis_and_conceptual_modeling_of_systems/Практикум__АКМС.pdf)
